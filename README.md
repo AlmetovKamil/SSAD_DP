@@ -1,0 +1,1 @@
+This repo represents assignments completed during the Software System Analysis and Design. Not everything is completed.

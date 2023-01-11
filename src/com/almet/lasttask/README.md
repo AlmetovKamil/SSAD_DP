@@ -1,0 +1,1 @@
+I used **Bridge** pattern to complete this task. *RemoteControl* class is **Abstraction**, *IMultimediaSystem* interface is **Implementation**.
